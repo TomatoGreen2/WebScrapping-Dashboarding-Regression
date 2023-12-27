@@ -1,1 +1,2 @@
-
+An exploratory project (conducted in December 2023) to learn more about the political discussions on animalwelfare taking place on Twitter. For this Nitter was scraped. Key starter questions were: How to analyze the discussion on animalwelfare on twitter? How to structure the information regarding animalwelfare on twitter? Do easy fixes exist: can hashtags be used to gain an overview on the animalwelfare discussion in twitter? Can subtopics be automatically identified? Can discussion participants be automatically classified? How diverse is the community in their information generation?
+Files attached are the jupyter notebook and a pdf presentation of results.
