@@ -1,6 +1,7 @@
 # WebScrapping-Dashboarding-Regression
 
 Webscrapping (and crawling) is just a super basic tool I needed to get my hands on. So is dashboarding. 
+
 ShoeScrapping (done in August 2023) was my first project where I scrapped data from Zalando using a combination of Selenium and Requests (CFScrapper actually). I then displayed results in Dash. 
 
 For ScientJournalTileScrapping (done in August 2023), I scrapped data from PubMed using Selenium and then did the data analysis in R (within a jupyter notebook). I had the suspicion that Scientific journal titles would reflect Scientific trends: for the time frame I looked at (roughly 2007 to 2023), and the journal (Cell) I looked at, I could not find strong and convincing trends, however. Still, nice practice.
