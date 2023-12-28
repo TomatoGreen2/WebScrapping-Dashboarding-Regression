@@ -1,0 +1,15 @@
+Python==3.11.5
+jupyterlab==4.0.8
+ipykernel==6.25.0
+Pandas==2.1.1
+matplotlib
+seaborn
+numpy==1.26.2
+ntscraper
+nltk==3.8.1
+scikit-learn==1.3.2.
+wordcloud==1.9.3 
+demoji
+sentence-transformers==2.2.2 
+torch==2.1.2
+transformers==4.36.2
